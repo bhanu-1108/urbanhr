@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# 🏙️ UrbanHR – Unified Human Resource Management System (HRMS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+UrbanHR is a **frontend prototype** of a **Unified Human Resource Management System (HRMS)** designed for **Municipal Corporations / Urban Local Bodies**.  
+It focuses on **digitizing, centralizing, and simplifying HR operations** such as employee management, attendance, and dashboards through a modern web interface.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Problem Statement
 
-### `npm start`
+Municipal corporations and government bodies often rely on **manual, fragmented, and outdated HR processes**, leading to:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Scattered employee records  
+- Inefficient attendance tracking  
+- Lack of real-time insights for administrators  
+- Poor transparency and scalability  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+These issues reduce productivity, accountability, and decision-making efficiency.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💡 Our Solution – UrbanHR
 
-### `npm run build`
+**UrbanHR** provides a **centralized, digital HRMS platform** that enables:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Unified employee data management  
+- Role-based dashboards  
+- Attendance and workforce overview  
+- Clean, scalable UI suitable for government systems  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project is a **hackathon-ready prototype** focused on **UI/UX, system design, and usability**, built entirely on the frontend.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 🧑‍💼 Employee Management Dashboard  
+- 📊 Admin & User Dashboards  
+- ⏱️ Attendance Overview (UI-based)  
+- 🏢 Department & Role Structure  
+- 🧭 Sidebar Navigation & Top Navbar  
+- 📱 Responsive Design (Desktop-first)  
+- 🎨 Government / Smart City themed UI  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Frontend:** React.js (JavaScript)  
+- **Routing:** React Router  
+- **Styling:** Tailwind CSS / CSS  
+- **Deployment:** Netlify  
+- **Data:** Static / Dummy JSON data,Local Storage
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎥 YouTube Demo Video
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📺 **Project Walkthrough & Demo:**  
+👉 https://youtu.be/oij7G3UkawQ
