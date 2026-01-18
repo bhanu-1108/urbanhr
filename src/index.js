@@ -1,3 +1,10 @@
+import { HashRouter } from "react-router-dom";
+
+<HashRouter>
+  <App />
+</HashRouter>
+
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
