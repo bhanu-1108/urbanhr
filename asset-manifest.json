@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bhanu-1108/urbanhr/static/css/main.67241027.css",
+    "main.js": "/bhanu-1108/urbanhr/static/js/main.d9ee36b8.js",
+    "index.html": "/bhanu-1108/urbanhr/index.html",
+    "main.67241027.css.map": "/bhanu-1108/urbanhr/static/css/main.67241027.css.map",
+    "main.d9ee36b8.js.map": "/bhanu-1108/urbanhr/static/js/main.d9ee36b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67241027.css",
+    "static/js/main.d9ee36b8.js"
+  ]
+}
